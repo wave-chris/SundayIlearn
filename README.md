@@ -1,4 +1,4 @@
-## 요일 모각코 since 12 Jan 2020
+## 일요일 모각코 since 12 Jan 2020
 
 ### Member
 - David
